@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>cvut</name>
+    <description>A Gentoo overlay supplementing the MAGE project.</description>
+    <homepage>https://github.com/vaizard/mage-overlay/</homepage>
+    <owner type="organization">
+	<name>Vaizard Institute</name>
+	<email>vaizard@vaizard.org</email>
+    </owner>
+    <source type="git">git://github.com/vaizard/mage-overlay.git</source>
+    <feed>https://github.com/vaizard/mage-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
