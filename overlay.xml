@@ -3,7 +3,7 @@
   <repo quality="experimental" status="unofficial">
     <name>cvut</name>
     <description>A Gentoo overlay supplementing the MAGE project.</description>
-    <homepage>https://github.com/vaizard/mage-overlay/</homepage>
+    <homepage>https://github.com/Vaizard/mage-overlay/</homepage>
     <owner type="organization">
 	<name>Vaizard Institute</name>
 	<email>vaizard@vaizard.org</email>
